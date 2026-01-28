@@ -44,16 +44,8 @@ Recent advances in image understanding have enabled methods that leverage large 
 ## Results
 
 <div align=center>
-<img src="assets/fig_4.png"  width="650" height="400">
+<img src="assets/fig_4.png"  width="700" height="400">
 </div>
-
-<div align=center>
-<img src="assets/fig_5.png"  width="700" height="300">
-</div>
-
-
-### Contact
-Feel free to contact me if you have additional questions or have interests in collaboration. Please drop me an email at xuzhang1211@hnu.edu.cn. =)
 
 
 ## Citation
